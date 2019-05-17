@@ -341,6 +341,7 @@ body{
 
     }
     .content{
+        padding: 0;
         height: 400px;
     }
     .calculator{
