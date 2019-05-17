@@ -344,6 +344,7 @@ body{
     .content{
         padding: 0;
         height: 625px;
+        justify-content: flex-start;
     }
     .calculator{
         width: calc(100% - 40px);
