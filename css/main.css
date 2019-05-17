@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #60a75e;
 }
 .page{
     background-color: #60a75e;
@@ -159,7 +160,7 @@ body{
     margin: 0 auto;
 }
 .content{
-    height: 600px;
+    height: 400px;
     padding-top: 125px;
     display: flex;
     justify-content: space-between;
