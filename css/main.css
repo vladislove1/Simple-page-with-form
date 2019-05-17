@@ -333,6 +333,7 @@ body{
     }
     .hide-block{
         margin-top: -80px;
+        margin-bottom: 80px;
         -webkit-transition: all 1s ease-in-out;
         -moz-transition: all  1s ease-in-out;
         -o-transition: all  1s ease-in-out;
